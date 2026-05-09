@@ -1,3 +1,3 @@
 function pesan(){
-    alert("Deployment berhasil!");
+alert("Pendaftaran berhasil dibuka!");
 }
